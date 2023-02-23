@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
- * main - print and that piece of art is useful
+ * main - prints and that piece of art is useful
  * - Due Korpar, 2015-10-19
  * Return: Always 0 (failure)
  */
